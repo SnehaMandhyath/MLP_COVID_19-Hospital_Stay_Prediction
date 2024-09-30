@@ -1,1 +1,1 @@
-# MLP_COVID_19-Hospital_Stay_Prediction
+### Building a Multilayer Perceptron (MLP) Model for COVID-19 hospital stay prediction.
